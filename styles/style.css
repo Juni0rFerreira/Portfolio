@@ -52,7 +52,13 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
+}
 
+.apresentacao_conteudo_certificados {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao_conteudo_titulo {
@@ -161,4 +167,16 @@ body {
     .apresentacao_conteudo_sobremim {
         width: auto;
     }
+}
+
+.dart {
+    width: 8%;
+}
+
+.logo_linguagens {
+    width: 8%;
+}
+
+.htmlecss {
+    width: 18%;
 }
