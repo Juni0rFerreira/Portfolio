@@ -146,6 +146,12 @@ body {
     gap: 40px;
 }
 
+.titulo_certificado {
+    margin: 0;
+    padding: 0;
+
+}
+
 @media (max-width: 1200px) {
 
     .cabecalho {
@@ -167,16 +173,4 @@ body {
     .apresentacao_conteudo_sobremim {
         width: auto;
     }
-}
-
-.dart {
-    width: 8%;
-}
-
-.logo_linguagens {
-    width: 8%;
-}
-
-.htmlecss {
-    width: 18%;
 }
